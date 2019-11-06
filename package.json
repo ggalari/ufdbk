@@ -1,0 +1,20 @@
+{
+  "name": "ufdbk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggalari/ufdbk.git"
+  },
+  "author": "gianluigi alari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggalari/ufdbk/issues"
+  },
+  "homepage": "https://github.com/ggalari/ufdbk#readme"
+}
